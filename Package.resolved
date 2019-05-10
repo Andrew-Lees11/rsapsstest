@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CryptorRSA",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueRSA.git",
+        "state": {
+          "branch": "pssRSA",
+          "revision": "253c6e14c44e01f77e0970c64223eba1c5573c06",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
